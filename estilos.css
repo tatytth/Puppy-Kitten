@@ -67,6 +67,22 @@ header a{
 
 /*FOOTER*/
 
+.titulo{
+	font-size: 25px;
+	color: #900020;
+	font-style: bold;
+}
+
+button{
+  background-color: #900020;
+  color: white;
+  border-radius: 6px;
+  padding: 10px;
+  font-size: 16px;
+}
+
+/*FOOTER*/
+
 .logo-menu h6{
 	font-weight: 300;
 	font-size: 20px;
